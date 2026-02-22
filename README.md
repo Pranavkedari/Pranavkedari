@@ -1,16 +1,35 @@
 ## Hi there 👋
 
-<!--
-**Pranavkedari/Pranavkedari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Pranav Kedari
 
-Here are some ideas to get you started:
+🎓 Electronics & Telecommunication Engineer (B.E. – 2025)
+💻 Passionate about Embedded Systems, MCU Programming & IoT
+🚀 PG-DESD (CDAC) Student | Aspiring Embedded / IoT Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Skills & Technologies
+
+💡 Programming: C, Embedded C, Python (basic)
+
+🔌 Embedded: Microcontrollers, Raspberry Pi, Device Drivers, Linux
+
+📡 Communication Protocols: UART, SPI, I2C, CAN
+
+⚙️ Concepts: RTOS Basics, BSP, Hardware Interfacing
+
+🧪 Tools: Git, Linux, VS Code
+
+📂 Projects
+
+✅ Driver Drowsiness Detection System (Raspberry Pi)
+
+Real-time eye & face detection
+
+Alert system using buzzer
+
+OpenCV based implementation
+
+✅ Embedded & IoT Projects (MCU Interfacing, Communication protocols)
+
+🎯 Career Objective
+
+To start my career as an Embedded Systems / IoT Engineer where I can apply my knowledge of microcontrollers, device drivers and embedded software development.
