@@ -1,4 +1,4 @@
-## Hi there 👋
+//## Hi there 👋
 
 👋 Hi, I'm Pranav Kedari
 
@@ -14,7 +14,7 @@
 
 📡 Communication Protocols: UART, SPI, I2C, CAN
 
-⚙️ Concepts: RTOS Basics, BSP, Hardware Interfacing
+⚙️ Concepts: RTOS, Hardware Interfacing
 
 🧪 Tools: Git, Linux, VS Code
 
